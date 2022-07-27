@@ -1,0 +1,8 @@
+# to check the git config
+git config -l
+
+# to initialize the git repository
+git init .
+
+# to add everything to staging area
+# git add -A
