@@ -6,3 +6,4 @@ git init .
 
 # to add everything to staging area
 # git add -A
+#some random text
